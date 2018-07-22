@@ -173,7 +173,7 @@ div.hidden-box{
 	background:#315565 url(../img/sj2.png) no-repeat  top center;
 }
 #box-2{
-	right:164px;
+	right: 17.5%;
 }
 .hidden-box>ul{
 	color:#fff;
@@ -442,8 +442,8 @@ opacity:0;
 	font-size:36px;
 	font-weight:800;
 	position:relative;
-	left:27%;
-	top:-16%;
+	left:25.5%;
+	top:-14%;
 }
 
 
